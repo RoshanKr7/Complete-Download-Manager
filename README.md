@@ -1,5 +1,6 @@
 # Complete-Download-Manager
 Can download simple files , youtube videos, audio only from video URL and youtube playlist.
+
 It also support change of Theme (Classic Theme, Dark Mode, Material Theme)
 
 
@@ -14,6 +15,7 @@ It also support change of Theme (Classic Theme, Dark Mode, Material Theme)
 ---------------------------------------------------------------------------
 > ### How To Run The Code :
 First you have to make sure that you have python3 and PyQt5 installed.
+
 Run index.py file to run the program
 
 ----------------------------------------------------------------------------
