@@ -17,4 +17,8 @@ Run index.py file to run the program
 
 > ### SCREENSHOT
 
-![ScreenShot](https://github.com/RoshanKr7/Complete-Download-Manager/blob/master/ScreenShot/Audio_Downloaded.jpg)
+<div align="center">
+        <img width="47%" src="ScreenShot/Home.jpg" alt="Home screen" title="Home screen"</img>
+        <img height="0" width="18px">
+        <img width="47%" src="ScreenShot/Audio_Downloaded.jpg" alt="Audio screen" title="Audio screen"></img>
+</div>
