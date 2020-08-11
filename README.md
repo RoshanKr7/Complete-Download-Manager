@@ -22,3 +22,9 @@ Run index.py file to run the program
         <img height="0" width="18px">
         <img width="47%" src="ScreenShot/Audio_Downloaded.jpg" alt="Audio screen" title="Audio screen"></img>
 </div>
+
+<div align="center">
+        <img width="46.4%" src="ScreenShot/playlist.jpg" alt="Playlist screen" title="Playlist screen"</img>
+        <img height="0" width="18px">
+        <img width="46.4%" src="ScreenShot/Theme.jpg" alt="Theme screen" title="Theme screen"></img>
+</div>
