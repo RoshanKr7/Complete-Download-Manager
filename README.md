@@ -10,11 +10,12 @@ PyQt5 simple files , youtube videos, audio only from video URL and youtube playl
  - photo_rc.py : the icons files converted to python code
 
 
------------------------------------------------------------------
+---------------------------------------------------------------------------
 > ### How To Run The Code :
 First you have to make sure that you have python3 and PyQt5 installed.
 Run index.py file to run the program
 
+----------------------------------------------------------------------------
 > ### SCREENSHOT
 
 <div align="center">
