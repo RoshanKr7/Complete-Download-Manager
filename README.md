@@ -1,5 +1,6 @@
 # Complete-Download-Manager
-PyQt5 simple files , youtube videos, audio only from video URL and youtube playlist downloader
+Can download simple files , youtube videos, audio only from video URL and youtube playlist.
+It also support change of Theme (Classic Theme, Dark Mode, Material Theme)
 
 
 --------------------------------------------------------------------------
